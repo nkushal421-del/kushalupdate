@@ -1,6 +1,6 @@
 {
   "version": "1.0.37",
-  "build_number": 37,
+  "build_number": 38,
   "url": "https://github.com/nkushal421-del/kushalupdate/releases/download/1.0.9/app-release.apk",
   "changelog": "- New 'Spoty' Branding\n- Modern Animated Splash Screen\n- Fixed Song Deletion & Duplicates\n- Integrated APK Sharing\n- Improved Stability & Crash Reporting"
 }
