@@ -1,6 +1,6 @@
 {
   "version": "1.0.44",
   "build_number": 50,
-  "url": "https://github.com/nkushal421-del/kushalupdate/releases/download/1.0.44/app-release.apk",
-  "changelog": "- New 'Spoty' Branding\n- Modern Animated Splash Screen\n- Fixed Song Deletion & Duplicates\n- Integrated APK Sharing\n- Improved Stability & Crash Reporting"
+  "url": "https://github.com/nkushal421-del/kushalupdate/releases/download/v1.0.44/app-release.apk",
+  "changelog": "🔥 Naya Spoty v1.0.44 Update!\n\n1. Modern Profile Setup: Home aur baki screens pe naya Spotify jesa Avatar. Profile page se photo set/remove karein, jo backup bhi hogi!\n2. Smooth Downloads: Library me download animation ab makhan jesa smooth hai.\n3. Fast Restore: Backup se restore ab 3x fast hai, plus agar app beech me band ho jaye, to download wahi se resume hoga.\n4. Bug Fixes: Clear Artwork Cache aur YouTube se artist name extract karne ki problem door kar di gayi hai."
 }
