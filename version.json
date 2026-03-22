@@ -2,5 +2,5 @@
   "version": "1.0.44",
   "build_number": 51,
   "url": "https://github.com/nkushal421-del/kushalupdate/releases/download/1.0.44/app-release.apk",
-  "changelog": "🔥 Naya Spoty v1.0.44 Update!\n\n1. Modern Profile Setup: Home aur baki screens pe naya Spotify jesa Avatar. Profile page se photo set/remove karein, jo backup bhi hogi!\n2. Smooth Downloads: Library me download animation ab makhan jesa smooth hai.\n3. Fast Restore: Backup se restore ab 3x fast hai, plus agar app beech me band ho jaye, to download wahi se resume hoga.\n4. Bug Fixes: Clear Artwork Cache aur YouTube se artist name extract karne ki problem door kar di gayi hai."
+  "changelog": "🔥 Spoty v1.0.44 Update!\n\n1. Modern Profile: New Spotify-style Avatar on Home & other screens. Set/remove your photo from the Profile page (photo is included in backups!).\n2. Smooth Downloads: Download progress animations in the Library are now buttery smooth.\n3. Fast Restore: Restoring from backup is now 3x faster, with a persistent queue to resume downloads if the app is closed.\n4. Bug Fixes: Fixed \"Clear Artwork Cache\" functionality and improved Artist name extraction from YouTube."
 }
