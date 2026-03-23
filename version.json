@@ -1,6 +1,6 @@
 {
   "version": "1.0.44",
-  "build_number": 53,
+  "build_number": 55,
   "url": "https://github.com/nkushal421-del/kushalupdate/releases/download/1.0.44/app-release.apk",
   "changelog": "🔥 Spoty v1.0.44 Update!\n\n1. Category Header: Liked Songs/Recent screens now show dynamic artwork background.\n2. Smart Playlist: New Add-to-Playlist selection menu.\n3. Update Fix: Improved APK download reliability and error messages.\n4. Performance: Smooth library animations and metadata fixes."
 }
