@@ -1,6 +1,6 @@
 {
   "version": "1.0.45",
-  "build_number": 64,
+  "build_number": 73,
   "url": "https://github.com/nkushal421-del/kushalupdate/releases/download/1.0.45/app-release.apk",
   "changelog": "• Enhanced Metadata Engine (ID3 Tags + LRCLIB Search)\n• 🌙 Sleep Timer with 15s smooth Fade-out\n• 🐞 New 'Report a Bug' form integration\n• 📳 Optimized Shake-to-Skip sensitivity\n• 🚀 Performance improvements & build stability fixes"
 }
