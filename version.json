@@ -1,6 +1,6 @@
 {
   "version": "1.0.45",
-  "build_number": 61,
-  "url": "https://github.com/nkushal421-del/kushalupdate/releases/download/1.0.45/app-release.apk",
-  "changelog": "🔥 Spoty v1.0.45 Update!\n\n1. Some Bug Fix."
+  "build_number": 62,
+  "url": "https://github.com/nkushal421-del/kushalupdate/raw/main/app-release.apk",
+  "changelog": "• Enhanced Metadata Engine (ID3 Tags + LRCLIB Search)\n• 🌙 Sleep Timer with 15s smooth Fade-out\n• 🐞 New 'Report a Bug' form integration\n• 📳 Optimized Shake-to-Skip sensitivity\n• 🚀 Performance improvements & build stability fixes"
 }
