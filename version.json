@@ -1,6 +1,6 @@
 {
-  "version": "1.0.58",
-  "build_number": 86,
+  "version": "1.0.60",
+  "build_number": 88,
   "url": "https://github.com/nkushal421-del/kushalupdate/releases/download/1.0.58/app-release.apk",
   "changelog": "• 📈 YouTube Music Charts (Trending Now, Top 100 Songs, Top Videos)\n• 👨‍🎤 Top Artists with Subscriber Count Ranking\n• 🔀 Smart Queue (Auto-Mix) with Infinite Playback\n• 🌍 Region-aware discovery with GPS location detection\n• 🧹 Cleaned Home interface and performance optimizations"
 }
