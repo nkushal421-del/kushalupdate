@@ -1,6 +1,6 @@
 {
   "version": "1.0.71",
   "build_number": 100,
-  "url": "https://raw.githubusercontent.com/nkushal421-del/kushalupdate/main/app-release.apk",
-  "changelog": "🚀 Big Update!\n\n• Fixed Top Artists YouTube Image parsing bug\n• UI: Replaced Made For You with Top Artists on Home Screen\n• Fixed completely greyed out UI bug while downloading tracks\n• Added massive stability fixes for downloading songs with 1 Lakh+ active users"
+  "url": "https://github.com/nkushal421-del/kushalupdate/releases/download/1.0.71/app-release.apk",
+  "changelog": "🚀 Big Update!\n\n• Fixed Top Artists YouTube Image parsing bug\n• UI: Replaced Made For You with Top Artists on Home Screen\n• Fixed completely greyed out UI bug while downloading tracks"
 }
