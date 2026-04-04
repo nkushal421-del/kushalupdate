@@ -1,6 +1,6 @@
 {
   "version": "1.2.2",
-  "build_number": 167,
-  "url": "https://github.com/nkushal421-del/kushalupdate/releases/download/1.0.71/app-release.apk",
-  "changelog": "✨ Modern UI & Glassmorphism: v1.2.2 brings the premium 'Clear Windows' look. \n🔹 Glassmorphic Notifications: Pop-up windows now feature background blur and translucency for a sleek aesthetic.\n🔹 What's New Feature: Track all recent changes directly from the Profile screen.\n🔹 System-Wide Polish: All major app dialogs (Delete, Terms, Report, Updates) have been modernized.\n🔹 Performance: Faster UI responsiveness and smoother transitions across all screens."
+  "build_number": 168,
+  "url": "https://github.com/nkushal421-del/kushalupdate/releases/download/1.2.2/SpotyMusic_v1.2.2_Build168_Stable.apk",
+  "changelog": "✨ Modern UI & Glassmorphism (v1.2.2-b168): \n🔹 Clearer Windows: Glass effect now covers the entire dialog for a premium, unified look.\n🔹 Fixed Update Progress: Download bar and status updates now show in real-time.\n🔹 Multi-Tasking: Added 'Run in Background' option during updates.\n🔹 UI Polish: Improved spacing and fixed nested container visual issues in all pop-ups."
 }
