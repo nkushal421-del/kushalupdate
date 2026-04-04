@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "build_number": 165,
-  "url": "https://github.com/nkushal421-del/kushalupdate/releases/download/1.0.71/SpotyMusic_v1.2.0_Build165_SharedAxis.apk",
-  "changelog": "🔹 AI Voice Assistant Anti-Crash: Added a 10-minute automated memory flush (Garbage Collector) to prevent the application from auto-closing during long listening sessions.\n🔹 Modern UI Transitions: Implemented 'Shared Axis' (Horizontal) slide-fade effects for Liked Songs, Recently Played, and Playlist navigation for a buttery-smooth experience.\n🔹 Universal Audio Support: Added native file scanning support for .opus, .flac, .webm, and .ogg formats alongside traditional formats.\n🔹 Performance: Optimized the Category Screen to render instantly by removing artificial loading delays and main-thread I/O checks."
+  "version": "1.2.1",
+  "build_number": 166,
+  "url": "https://github.com/nkushal421-del/kushalupdate/releases/download/1.2.1/SpotyMusic_v1.2.1_Build166_Stable.apk",
+  "changelog": "🚀 Stable Release: Officially rolling out v1.2.1 with all recent performance improvements. \n🔹 Enhanced UI Transitions: Fluid 'Shared Axis' navigation across all main categories.\n🔹 Memory Management: Automated memory flush to prevent crashes during long listening sessions.\n🔹 Audio Support: Native support for high-quality audio formats (.opus, .flac).\n🔹 Performance: Drastically reduced loading times for local library scanning."
 }
