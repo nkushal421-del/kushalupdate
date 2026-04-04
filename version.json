@@ -1,6 +1,6 @@
 {
   "version": "1.2.1",
   "build_number": 166,
-  "url": "https://github.com/nkushal421-del/kushalupdate/releases/download/1.2.1/SpotyMusic_v1.2.1_Build166_Stable.apk",
+  "url": "https://github.com/nkushal421-del/kushalupdate/releases/download/1.0.71/SpotyMusic_v1.2.1_Build166_Stable.apk",
   "changelog": "🚀 Stable Release: Officially rolling out v1.2.1 with all recent performance improvements. \n🔹 Enhanced UI Transitions: Fluid 'Shared Axis' navigation across all main categories.\n🔹 Memory Management: Automated memory flush to prevent crashes during long listening sessions.\n🔹 Audio Support: Native support for high-quality audio formats (.opus, .flac).\n🔹 Performance: Drastically reduced loading times for local library scanning."
 }
