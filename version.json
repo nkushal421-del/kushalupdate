@@ -1,6 +1,6 @@
 {
-  "version": "1.2.3",
-  "build_number": 172,
-  "url": "https://github.com/nkushal421-del/kushalupdate/releases/download/1.0.71/app-release.apk",
-  "changelog": "✨ Modern UI & Glassmorphism (v1.2.2-b168): \n🔹 Clearer Windows: Glass effect now covers the entire dialog for a premium, unified look.\n🔹 Fixed Update Progress: Download bar and status updates now show in real-time.\n🔹 Multi-Tasking: Added 'Run in Background' option during updates.\n🔹 UI Polish: Improved spacing and fixed nested container visual issues in all pop-ups."
+  "version": "1.2.5",
+  "build_number": 174,
+  "url": "https://github.com/nkushal421-del/kushalupdate/releases/download/1.2.5/SpotyMusic_v1.2.5_Build174_Stable.apk",
+  "changelog": "🚀 STABILITY & UI REFRESH (v1.2.5-b174):\n🔹 Layout Reversion: Back to the classic, easy-to-use Home Screen design.\n🔹 Faster Animations: Morphing transitions between players are now 30% speedier (450ms).\n🔹 Smooth Scaling: Micro-animations refined for better tactical feedback.\n🔹 Under-the-hood: Optimized smart-autoplay replenishment and recommendation logic."
 }
